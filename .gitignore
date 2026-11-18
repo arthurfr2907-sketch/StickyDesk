@@ -1,0 +1,9 @@
+# Fichiers générés par la compilation
+.build/
+build/
+.swiftpm/
+*.xcodeproj/
+DerivedData/
+
+# macOS
+.DS_Store
